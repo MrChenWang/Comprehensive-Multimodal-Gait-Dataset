@@ -1,7 +1,7 @@
 # A Comprehensive Multimodal Gait Dataset for Indoor and Outdoor Locomotion
 
 We built a multimodal gait dataset from 17 healthy participants (7 females and 10 males; age: 19–34 years; 
-height: 173.2±8.88 cm; weight: 67.0±11.97 kg) across diverse indoor and outdoor environments. 
+height: 173.1±8.88 cm; weight: 67.0±11.97 kg) across diverse indoor and outdoor environments. 
 The dataset contains motion data from 7 IMUs, foot pressure data from FSR with 96 points, and visual data from 3 front-facing
 cameras. The annotations include 16 classes of lower-limb locomotion states, gait phases for both legs,
 and COP for both feet.
